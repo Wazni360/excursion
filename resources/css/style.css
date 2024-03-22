@@ -1,7 +1,21 @@
 body {
     background-color: black;
+    text-align: center;
 }
 
 p, h1, h2 {
     color: white;
+}
+img, a{
+    display: block;
+}
+
+#trademark{
+    color: grey;
+    text-align: right;
+}
+
+#phone-icon{
+    height: 20px;
+    
 }
